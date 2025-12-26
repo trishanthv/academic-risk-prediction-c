@@ -13,10 +13,3 @@ This project is a C-based rule-based system that analyzes student academic perfo
 ## Purpose
 This project was developed to understand data analysis logic and rule-based prediction as a foundation for data science.
 
-## Screenshots
-
-### Input Data
-![Input Screenshot](screenshots/input_data.png)
-
-### Output Result
-![Output Screenshot](screenshots/output_result.png)
